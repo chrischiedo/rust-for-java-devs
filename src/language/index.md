@@ -1,0 +1,25 @@
+# Language Features
+
+This section compares Java and Rust language features. Here's what is covered in this section:
+
+- [Data Types](data-types.md)
+- [Variables and Constants](variables-and-constants.md)
+- [Strings](strings.md)
+- [Collection Types](collection-types.md)
+- [Functions](functions.md)
+- [Control Flow](control-flow.md)
+- [Custom Types](./custom-types/index.md)
+- [Lambdas and Closures](lambdas-and-closures.md)
+- [Streams and Iterators](streams-and-iterators.md)
+- [Pattern Matching](pattern-matching.md)
+- [Packages and Modules](packages-and-modules.md)
+- [Equality](equality.md)
+- [Generics](generics.md)
+- [Polymorphism](polymorphism.md)
+- [Inheritance](inheritance.md)
+- [Error Handling](error-handling.md)
+- [Nullability and Optionality](nullability-and-optionality.md)
+- [Conversion and Casting](conversion-and-casting.md)
+- [Annotations](annotations.md)
+- [Smart Pointers](smart-pointers.md)
+- [Documentation Comments](documentation-comments.md)
